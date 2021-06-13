@@ -1,0 +1,17 @@
+.singinInput {
+  background: transparent;
+  border: 1px solid #000;
+}
+
+.singinInput:hover {
+  background: #000;
+  color: #fff;
+}
+
+fieldset {
+  border: 1px solid #000;
+}
+
+legend {
+  text-align: center;
+}
